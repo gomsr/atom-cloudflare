@@ -1,7 +1,7 @@
 # cloudflare
 
 ```shell
-go get github.com/micro-services-roadmap/cloudflare@v0.0.2
+go get github.com/gomsr/atom-cloudflare@v0.0.2
 ```
 
 ## cloudflare-kv

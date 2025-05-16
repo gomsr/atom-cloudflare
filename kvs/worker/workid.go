@@ -1,9 +1,9 @@
 package worker
 
 import (
-	"github.com/micro-services-roadmap/cloudflare/kvs"
-	"github.com/micro-services-roadmap/cloudflare/kvs/cf"
-	"github.com/micro-services-roadmap/cloudflare/util"
+	"github.com/gomsr/atom-cloudflare/kvs"
+	"github.com/gomsr/atom-cloudflare/kvs/cf"
+	"github.com/gomsr/atom-cloudflare/util"
 	"github.com/spf13/cast"
 	"strconv"
 )

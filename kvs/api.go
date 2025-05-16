@@ -3,7 +3,7 @@ package kvs
 import (
 	"github.com/cloudflare/cloudflare-go/v4"
 	"github.com/cloudflare/cloudflare-go/v4/option"
-	"github.com/micro-services-roadmap/cloudflare/util"
+	"github.com/gomsr/atom-cloudflare/util"
 )
 
 var (

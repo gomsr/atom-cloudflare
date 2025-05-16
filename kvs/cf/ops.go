@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"github.com/cloudflare/cloudflare-go/v4"
 	"github.com/cloudflare/cloudflare-go/v4/kv"
-	"github.com/micro-services-roadmap/cloudflare/kvs"
+	"github.com/gomsr/atom-cloudflare/kvs"
 	"io"
 )
 
