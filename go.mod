@@ -5,7 +5,7 @@ go 1.22.7
 require (
 	github.com/alice52/jasypt-go v1.0.7
 	github.com/cloudflare/cloudflare-go/v4 v4.3.0
-	github.com/spf13/cast v1.8.0
+	github.com/spf13/cast v1.10.0
 )
 
 require (
